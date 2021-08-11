@@ -1,3 +1,4 @@
 # LED-v1
-  This program makes the red LED blinks and turns the green LED off if the user button is pushed, 
-  and makes the green LED blinks and turn the red LED off if the user button is released.
+The two LEDs (red and blue) should blink according to the following
+* If the user button is pushed, the red LED blinks and green LED OFF
+* If the user button is released, the green LED blinks and red LED off
